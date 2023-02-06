@@ -1,4 +1,0 @@
-- Detect 'total_cases' Outliers/Anomalies (Done, on whole dataset)
-- Predict when an anomaly occurs according to the X values (Done, on train dataset)
-- Train a model on the cases where we have anomalies
-in order to forecast more accurately the 'total_cases' column (Done, on train dataset)

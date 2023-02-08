@@ -172,6 +172,7 @@ models/
 .idea/
 LSTM Keras/
 MLP Keras/
+Data/
 SARIMAX Model San Juan.ipynb
 SARIMAX Model Iquitos.ipynb
 *.pkl

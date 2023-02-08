@@ -174,3 +174,4 @@ LSTM Keras/
 MLP Keras/
 SARIMAX Model San Juan.ipynb
 SARIMAX Model Iquitos.ipynb
+*.pkl
